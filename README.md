@@ -10,7 +10,7 @@ Python 3.8, Anaconda, Jupyter Notebook
 Due to evidence of academic dishonesty by ninth graders at Thomas High School, the school district analysis was conducted twice.  The frist analysis utilized the entire data that was provided, while the second analysis omitted ninth grade students' math and reading scores from Thomas High School.  Ninth graders from Thomas High School had their scores replaced with NaN. 
 
 ### District Summary
-(District%20Summary.png)
+![District%20Summary.png]
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
