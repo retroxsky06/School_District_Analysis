@@ -1,23 +1,16 @@
 # School_District_Analysis
 
-## Purpose of the Project
-Explain the purpose of this analysis.
-The purpose of this project is to analyze data for an entire School District, proving insight on student funding and students standardized test scores.
-analyze on student funding and student funding
-prepare test data for analysis insight on performance trends , inform discussion at the District level,
-student funding and students standardized test scores
-
-
-
-acess to 
+## Overview of the School District Analysis
+The purpose of this project is to analyze data for a School District, such as student funding and student standardized test scores, to provide insight on performance trends that may inform discussion at the District level. Additionally, to uphold state-testing standards, a second analysis was conducted due to evidence of academic dishonesty at a specific high school.
 
 ## Software
 Python 3.8, Anaconda, Jupyter Notebook
 
-## Overview of the School District Analysis
-
-
 ## Results
+Due to evidence of academic dishonesty by ninth graders at Thomas High School, the school district analysis was conducted twice.  The frist analysis utilized the entire data that was provided, while the second analysis omitted ninth grade students' math and reading scores from Thomas High School.  Ninth graders from Thomas High School had their scores replaced with NaN. 
+
+### District Summary
+
 Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
 - How is the school summary affected?
