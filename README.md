@@ -25,10 +25,13 @@ Due to evidence of academic dishonesty by ninth graders at Thomas High School, t
       analysis.
     - The reading passing percentage had fallen to 70% compared to the intial value of 97% in the first analysis.
     - The math passing percentage had fallen to 67% compared to the intial value of 93% in the first analysis.
-    
-Using bulleted lists and images of DataFrames as support, address the following questions.
-- How is the district summary affected?
-- How is the school summary affected?
+
+### Scores by 
+### Charter vs District Schools
+![ChartervsDistrict](Charter%20vs%20District.png)
+This analysis highlights that the Charter schools within the school district generally performed better than District Schools. As seen above, Charter schools have a 36% higher overall passing percentage in comparison to District Schools. The top five schools with the highest overall passing scores were Charter Schools, compared to the bottom five that were all District schools. Replacing the ninth-grade scores with NaN did not have an impact on these values.
+
+Overall, in this analysis 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
@@ -36,16 +39,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
     - Scores by school size
     - Scores by school type
 
-District Summary
-- overall passing: 0.1% decrease
-- .3 % decrease om reading passing
-- -,1 decrase average math
-- .2 decrease math passing overall
-School Summary
-
-
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
+
+
+
+Although the school board does not know the full extent of the academic dishonesty, 
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
