@@ -7,11 +7,25 @@ The purpose of this project is to analyze data for a School District, such as st
 Python 3.8, Anaconda, Jupyter Notebook
 
 ## Results
-Due to evidence of academic dishonesty by ninth graders at Thomas High School, the school district analysis was conducted twice.  The frist analysis utilized the entire data that was provided, while the second analysis omitted ninth grade students' math and reading scores from Thomas High School.  Ninth graders from Thomas High School had their scores replaced with NaN. 
+Due to evidence of academic dishonesty by ninth graders at Thomas High School, the school district analysis was conducted twice.  The frist analysis utilized the entire data that was provided, while the second analysis omitted ninth grade students' math and reading scores from Thomas High School (THS).  Ninth graders from THS had their scores replaced with NaN.  The following DataFrames represent summaries for the District and School after replacing THS ninth graders with NaN.
 
 ### District Summary
-![District Summary](District%20Summary.png)
+![District Summary](District%20Summary%20.png)
 
+#### District Summary Results
+    - The overall passing percentage had decreased by .1%
+    - The reading passing percentage had decreased by .3%
+    - The math passing percentage had decreased by .2%
+    
+### School Summary after replacing THS ninth
+![School Summary](School%20Summary%20.png)
+
+#### School Summary Results
+    - The overall passing percentage had fallen to 65% compared to the intial value of 90% in the first  
+      analysis.
+    - The reading passing percentage had fallen to 70% compared to the intial value of 97% in the first analysis.
+    - The math passing percentage had fallen to 67% compared to the intial value of 93% in the first analysis.
+    
 Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
 - How is the school summary affected?
