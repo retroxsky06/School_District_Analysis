@@ -10,7 +10,7 @@ Python 3.8, Anaconda, Jupyter Notebook
 Due to evidence of academic dishonesty by ninth graders at Thomas High School, the school district analysis was conducted twice.  The frist analysis utilized the entire data that was provided, while the second analysis omitted ninth grade students' math and reading scores from Thomas High School (THS).  Ninth graders from THS had their scores replaced with NaN.  The following DataFrames represent summaries for the District and School after replacing THS ninth graders with NaN.
 
 ### District Summary
-![District Summary](District%20Summary%20.png)
+![District Summary](District%20Summary%20THS.png)
 
 #### District Summary Results
     - The overall passing percentage had decreased by .1%
@@ -18,7 +18,7 @@ Due to evidence of academic dishonesty by ninth graders at Thomas High School, t
     - The math passing percentage had decreased by .2%
     
 ### School Summary after replacing THS ninth
-![School Summary](School%20Summary%20.png)
+![School Summary](School%20Summary%20THS.png)
 
 #### School Summary Results
     - The overall passing percentage had fallen to 65% compared to the intial value of 90% in the first  
