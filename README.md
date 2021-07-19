@@ -2,7 +2,17 @@
 
 ## Purpose of the Project
 Explain the purpose of this analysis.
+The purpose of this project is to analyze data for an entire School District, proving insight on student funding and students standardized test scores.
+analyze on student funding and student funding
+prepare test data for analysis insight on performance trends , inform discussion at the District level,
+student funding and students standardized test scores
 
+
+
+acess to 
+
+## Software
+Python 3.8, Anaconda, Jupyter Notebook
 
 ## Overview of the School District Analysis
 
@@ -17,6 +27,13 @@ Using bulleted lists and images of DataFrames as support, address the following 
     - Scores by school spending
     - Scores by school size
     - Scores by school type
+
+District Summary
+- overall passing: 0.1% decrease
+- .3 % decrease om reading passing
+- -,1 decrase average math
+- .2 decrease math passing overall
+School Summary
 
 
 ## Summary
